@@ -400,6 +400,8 @@ main:
             url: "logs/log_collection/java/"
           - name: "Nodejs"
             url: "logs/log_collection/nodejs/"
+          - name: "NGINX Ingress Controller"
+            url: "/integrations/nginx_ingress_controller/#log-collection"
           - name: "PHP"
             url: "logs/log_collection/php/"
           - name: "Python"
